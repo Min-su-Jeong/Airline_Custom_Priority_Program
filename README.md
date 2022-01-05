@@ -38,7 +38,6 @@
   - Version : JDK 16
 <br/><br/><br/>
 
-
 # 자료구조
 - 파일의 내용 및 변동되는 데이터를 담기 위한 구조체 클래스(Data)
   
@@ -71,3 +70,17 @@
 |int|hashcode|고객의 이름을 해시코드로 변환한 값을 저장하기 위한 변수|
 |int|index|해시코드를 인덱스로 변환한 값을 저장하기 위한 변수|
 |LinkedList<Node>|list|해시테이블에 데이터를 저장하기 위한 변수|
+    
+<br/><br/>
+    
+# 실행 흐름도
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74342121/148162412-1c657fca-498b-4d04-8f50-91e9eb97829f.png" width="1000" height="700">
+</p>
+    
+<br/><br/>
+    
+# 시스템 구성
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74342121/148162787-68e42e23-e6a7-47f2-b89a-e3cf5e481ae3.png" width="800" height="450">
+</p>
